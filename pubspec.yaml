@@ -1,0 +1,21 @@
+name: sehatinfo
+description: Aplikasi edukasi kesehatan dan informasi layanan (data simulasi).
+publish_to: "none"
+version: 0.1.0+1
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.2.3
+  flutter_local_notifications: ^17.2.2
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/

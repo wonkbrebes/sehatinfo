@@ -1,0 +1,11 @@
+[
+{"topic":"Gizi","question":"Berapa batas gula harian yang dianjurkan?","options":["10 gram","50 gram","100 gram"],"answer":1,"explanation":"Anjuran umum adalah 50 gram atau sekitar 4 sendok makan per hari."},
+{"topic":"Gizi","question":"Separuh isi piring sebaiknya berisi apa?","options":["Nasi","Sayur dan buah","Gorengan"],"answer":1,"explanation":"Isi Piringku menganjurkan separuh piring berupa sayur dan buah."},
+{"topic":"Ibu dan Anak","question":"Manakah yang termasuk imunisasi dasar?","options":["BCG","Vitamin C","Antibiotik"],"answer":0,"explanation":"BCG termasuk imunisasi dasar bersama Hepatitis B, Polio, DPT-HB-Hib, dan Campak-Rubela."},
+{"topic":"Ibu dan Anak","question":"Dokumen apa yang dibawa untuk mencatat imunisasi anak?","options":["Buku KIA","KTP saja","Kartu pelajar"],"answer":0,"explanation":"Buku KIA memuat riwayat imunisasi dan tumbuh kembang anak."},
+{"topic":"Penyakit Menular","question":"Berapa lama minimal mencuci tangan dengan sabun?","options":["5 detik","20 detik","2 menit"],"answer":1,"explanation":"WHO menganjurkan minimal 20 detik."},
+{"topic":"Penyakit Menular","question":"Kapan cuci tangan paling penting dilakukan?","options":["Sebelum makan","Hanya saat tangan kotor","Hanya saat sakit"],"answer":0,"explanation":"Cuci tangan sebelum makan dan setelah dari toilet mencegah penularan penyakit."},
+{"topic":"Penyakit Tidak Menular","question":"Tekanan darah berapa yang umumnya dianggap hipertensi?","options":["120/80","130/85","140/90 atau lebih"],"answer":2,"explanation":"Hipertensi umumnya ditetapkan pada 140/90 mmHg atau lebih pada pengukuran berulang."},
+{"topic":"Kesehatan Mental","question":"Apa yang sebaiknya dilakukan bila cemas berkepanjangan?","options":["Dipendam sendiri","Temui tenaga kesehatan","Menunggu hilang sendiri"],"answer":1,"explanation":"Bantuan profesional dianjurkan bila gejala berlangsung lama dan mengganggu aktivitas."},
+{"topic":"P3K","question":"Pertolongan awal luka bakar ringan?","options":["Oleskan pasta gigi","Aliri air mengalir 10-20 menit","Tempel es langsung"],"answer":1,"explanation":"Air mengalir menurunkan suhu jaringan. Hindari pasta gigi, mentega, dan es."}
+]
